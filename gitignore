@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & models (too large for git)
+data/*.csv
+models/*.pkl
+models/*.joblib
+
+# OS
+.DS_Store
+Thumbs.db
